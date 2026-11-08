@@ -6,7 +6,7 @@ Full-color AI-assisted manga adaptations. Each book lives in its own folder; eac
 
 | Book | Source | Status | Chapters |
 |---|---|---|---|
-| [Guarding the River of Time](Guarding-the-River-of-Time/) | web novel by *The Raccoon that Plucks Stars* (610 ch.) | Ch. 1 released (18 pages) | 1 / ongoing |
+| [Guarding the River of Time](Guarding-the-River-of-Time/) | web novel by *The Raccoon that Plucks Stars* (610 ch.) | Ch. 1 released (18 pages, EPUB + CBZ) | 1 / ongoing |
 
 ## How a chapter is made
 

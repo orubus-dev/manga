@@ -27,7 +27,8 @@
       "pages_dir": "chapter-01/pages/",
       "cbz": "chapter-01/Guarding_the_River_of_Time_Chapter_01.cbz",
       "page_map": "strip-NN = pages (NN-1)*3+1 to (NN-1)*3+3  (e.g. strip-01 = pages 1-3)",
-      "released": "2026-11-08"
+      "released": "2026-11-08",
+      "epub": "chapter-01/Guarding_the_River_of_Time_Chapter_01.epub"
     }
   ],
   "credits": {
