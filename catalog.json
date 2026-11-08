@@ -1,0 +1,27 @@
+{
+  "updated": "2026-11-08",
+  "books": [
+    {
+      "id": "grott",
+      "title": "Guarding the River of Time",
+      "author": "The Raccoon that Plucks Stars (web novel)",
+      "status": "ongoing",
+      "tags": ["cultivation", "rebirth", "river god", "full color", "comedy"],
+      "synopsis": "Su Mu is a reservoir keeper with the worst luck in two worlds — until the night his fishing line meets a high-voltage wire and he wakes on a river under two moons. Appointed keeper of a river that remembers everything, he learns that guarding time is the deadliest job in the realm. Adapted from the 610-chapter web novel by The Raccoon that Plucks Stars.",
+      "cover": "assets/grott/ch01/cover.jpg",
+      "repo": "https://github.com/orubus-dev/manga/tree/main/Guarding-the-River-of-Time",
+      "chapters": [
+        {
+          "id": "grott-ch01",
+          "number": 1,
+          "title": "Reservoir Manager, Official Position!",
+          "pages": 18,
+          "dir": "assets/grott/ch01/",
+          "ext": "jpg",
+          "released": "2026-11-08",
+          "free": true
+        }
+      ]
+    }
+  ]
+}
