@@ -1,0 +1,8 @@
+# Source novel text: third-party translation, not redistributed
+**/novel/
+# Logs and transient state
+*.log
+pipeline/state/
+__pycache__/
+*.pyc
+.DS_Store
