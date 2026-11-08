@@ -16,7 +16,7 @@
   },
   "2": {
    "ok": true,
-   "status": "built"
+   "status": "cached"
   }
  },
  "ch003": {
@@ -26,7 +26,7 @@
   },
   "2": {
    "ok": true,
-   "status": "built"
+   "status": "cached"
   }
  },
  "ch004": {
@@ -42,7 +42,7 @@
  "ch005": {
   "1": {
    "ok": true,
-   "status": "built"
+   "status": "cached"
   },
   "2": {
    "ok": true,
@@ -56,7 +56,7 @@
   },
   "2": {
    "ok": true,
-   "status": "built"
+   "status": "cached"
   }
  },
  "ch007": {
@@ -86,7 +86,7 @@
   },
   "2": {
    "ok": true,
-   "status": "built"
+   "status": "cached"
   }
  },
  "ch010": {
@@ -97,6 +97,16 @@
   "2": {
    "ok": true,
    "status": "cached"
+  }
+ },
+ "ch011": {
+  "1": {
+   "ok": true,
+   "status": "cached"
+  },
+  "2": {
+   "ok": true,
+   "status": "built"
   }
  }
 }

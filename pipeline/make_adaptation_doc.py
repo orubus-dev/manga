@@ -39,7 +39,7 @@ def load_plans():
 def main():
     plans = load_plans()
     lines = [
-        "# I am God — Adaptation Plan (Chapters 1-10)",
+        "# I am God — Adaptation Plan (Chapters 1-{})".format(plans[-1]["chapter"] if plans else 0),
         "",
         "Source: *I am God* (web novel, 458 chapters). This document records the chapter-by-chapter",
         "adaptation produced so far. Each generated image is a vertical strip of **3 manga pages**;",

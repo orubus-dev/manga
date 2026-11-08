@@ -1,4 +1,4 @@
-# I am God — Adaptation Plan (Chapters 1-10)
+# I am God — Adaptation Plan (Chapters 1-11)
 
 Source: *I am God* (web novel, 458 chapters). This document records the chapter-by-chapter
 adaptation produced so far. Each generated image is a vertical strip of **3 manga pages**;
@@ -33,7 +33,7 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
 |---|---|---|---|---|---|
 | 1 | The Observer Unbound by Time | teahouse | 2 | 6 | complete |
 | 2 | We Too Shall Inevitably Fade Away | cosmos | 2 | 6 | complete |
-| 3 | The Era of Life's Origin | island | 2 | 6 | 1/2 sheets |
+| 3 | The Era of Life's Origin | island | 2 | 6 | complete |
 | 4 | Wisdom and Life | temple | 2 | 6 | complete |
 | 5 | Shelly, the Fusion Monster | temple | 2 | 6 | complete |
 | 6 | Species and King | city | 2 | 6 | complete |
@@ -41,6 +41,7 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
 | 8 | Ancestral Fish | city | 2 | 6 | complete |
 | 9 | Food and a New Species | city | 2 | 6 | complete |
 | 10 | Writing and Mythology | city | 2 | 6 | complete |
+| 11 | Do You See? | city | 2 | 6 | complete |
 
 ## Page-by-page breakdown
 
@@ -285,4 +286,33 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
 - **P6** — The towering white stele erected before the city gates, covered in pictograms and carved characters beneath relief scenes; a crowd of @tmen@ looking up in awe, some reaching out to touch the symbols
   - `narration`: "God created all beings and created his firstborn, Redlichia, the King of Wisdom. He then created his servant, Shelly, the Mother of Life."
   - `say`: "So this is what God is like."
+
+### Chapter 11 — Do You See?  (palette: city)
+
+**Sheet 1**
+
+- **P1** — Elevated wide shot: a vast festive crowd of @tmen@ gathered around a massive circular stone well at the heart of the sunlit white city-state, each wearing chitin plate armor and a three-lobed trilobite bone helmet shaped like a trilobite shell, the well shaft plunging down toward the sea, banners and ceremony atmosphere, teal water sparkling beyond the city walls
+  - `narration`: "A large crowd gathered before the massive well connecting the God-Given City to the sea, as if attending a grand ceremony."
+  - `narration`: "It was his first time seeing sunlight and the magnificent God-Given City."
+- **P2** — The short young trilobite man — a SMALL figure, his head fully encased in a smooth dark three-lobed trilobite bone helmet shaped like a trilobite shell, no face visible, dark chitin plate armor dripping with seawater — wobbling as he steps off the submerged stone steps inside the great well onto the sunlit plaza, dazzled and flustered, thousands of @tmen@ in trilobite helmets cheering around the well rim
+  - `narration`: "Watched by thousands of Trilobite Men, a short, wobbling Trilobite Man emerged from the underwater city at the bottom of the well, step by step passing through the submerged stone steps onto the sunlit land."
+  - `narration`: "The scorching light above made him dizzy, and the cheers of thousands excited and flustered him."
+- **P3** — @redlichia@ — his head fully encased in the dark three-lobed trilobite bone helmet shaped like a trilobite shell with a carved stone crown set upon it, no face visible — clad in glossy black chitin plate armor, reaching his hand down from above, the SMALL young trilobite man in dark chitin armor and small three-lobed helmet kneeling before him on the stone plaza, the silent crowd of @tmen@ witnessing in awe, solemn sacred light
+  - `say`: "Come here!"
+  - `say`: "My child. I bestow upon you wisdom and knowledge. You, who inherit my bloodline, shall become part of the God-Given City from this day forward."
+
+**Sheet 2**
+
+- **P4** — Palace feast: @redlichia@ and the @queen@ heading a long stone table with @afish@ dishes, their armored children around a small youngest brother, every head encased in a three-lobed helmet
+  - `narration`: "The King of Wisdom celebrated his youngest son entering adolescence, transformed from a larval form in the sea to a humanoid shape. This large family had grown to include many members."
+  - `say`: "Welcome to our family, my brother."
+  - `say`: "Tomorrow, I'll take you to see the Ancestral Fish in the water. The sunlight penetrating the water, thousands of fish passing beneath — indescribably beautiful."
+- **P5** — The small armored boy speaking at the table, the @queen@ covering her mouth in amazement, @redlichia@ risen and laughing with overwhelming joy, all in chitin plate armor and three-lobed helmets
+  - `say`: "You told me! I heard your body calling my name."
+  - `narration`: ""You can directly see others' consciousness and thoughts." The whole family stared at Yesael in shock. This power belonged only to the King of Wisdom."
+  - `roar`: "You are good. Very good! Truly very good!"
+- **P6** — Pyramid peak: @redlichia@ and his small young son kneeling at the temple threshold, a giant spiral shell glowing on the stone altar, the small girl @shelly@ in her flowing white gauzy cloak seated beneath it, @god@ radiating starry brilliance
+  - `say`: "Yesael! Do you see?"
+  - `narration`: "He saw the spiral shell emanating mythical light, the supreme instrument for creating life. Beneath the altar sat the girl Shelly, surging with terrifying power. Finally — he saw God."
+  - `echo`: "God!"
 
