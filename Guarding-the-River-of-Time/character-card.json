@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "source_doc": "",
+  "reference_image": "",
+  "notes": "把「绝不能变」的部分写进 hair / eyewear / build / face，outfit 与 accent_color 可按场景替换。",
+  "character": {
+    "character_id": "sumu",
+    "name": "Su Mu",
+    "appearance": {
+      "age_presentation": "late 20s Chinese man",
+      "hair": "short messy black hair",
+      "face": "lean handsome face, thick straight brows, calm half-lidded sharp eyes, faint easygoing smirk",
+      "outfit": "bamboo hat, blue raincoat over dark grey work clothes (modern scenes); after transmigration: bareheaded, soaked torn dark shirt, barefoot",
+      "accent_color": "blue raincoat, orange cigarette ember, golden carp glow",
+      "build": "lean build, wiry strong forearms (Qilin arm)",
+      "vibe": "laid-back deadpan reservoir guard, unbothered, quietly unlucky"
+    },
+    "must_keep": [
+      "short messy black hair",
+      "thick straight brows",
+      "lean wiry build"
+    ]
+  },
+  "hard_anchors": [
+    {
+      "key": "hair",
+      "label_zh": "发型发色",
+      "must_keep_value": "short messy black hair",
+      "must_match": [
+        "short messy black hair",
+        "发型发色",
+        "hair"
+      ]
+    },
+    {
+      "key": "build",
+      "label_zh": "体型",
+      "must_keep_value": "lean build",
+      "must_match": [
+        "lean build",
+        "lean build, wiry strong forearms (Qilin arm)",
+        "体型",
+        "build"
+      ]
+    }
+  ]
+}

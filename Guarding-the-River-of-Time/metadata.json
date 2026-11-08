@@ -1,0 +1,39 @@
+{
+  "book_name": "Guarding the River of Time",
+  "language": "en",
+  "format": "full-color manga — vertical webtoon strips, 3 pages per generated image",
+  "pages_per_image": 3,
+  "source_novel": {
+    "title": "Guarding the River of Time",
+    "author": "The Raccoon that Plucks Stars",
+    "source_file": "Guarding_the_River_of_Time.epub",
+    "length": "610 chapters"
+  },
+  "art": {
+    "style": "full-color manhua / webtoon, clean ink lineart, cel shading",
+    "pipeline": "character card -> 18-panel storyboard -> AI panel generation -> programmatic text overlay (dialogue and narration are overlaid, never AI-rendered)",
+    "character_sheet": "character-sheet.png",
+    "character_card": "character-card.json"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Reservoir Manager, Official Position!",
+      "status": "complete",
+      "strips": 6,
+      "pages": 18,
+      "cover": "cover.png",
+      "strips_dir": "chapter-01/strips/",
+      "pages_dir": "chapter-01/pages/",
+      "cbz": "chapter-01/Guarding_the_River_of_Time_Chapter_01.cbz",
+      "page_map": "strip-NN = pages (NN-1)*3+1 to (NN-1)*3+3  (e.g. strip-01 = pages 1-3)",
+      "released": "2026-11-08"
+    }
+  ],
+  "credits": {
+    "story": "The Raccoon that Plucks Stars (web novel)",
+    "manga_adaptation": "AI-assisted pipeline (GLM image generation + text-to-comic storyboard)",
+    "assembled_by": "Orubus"
+  },
+  "created": "2026-11-08"
+}
