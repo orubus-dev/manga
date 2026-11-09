@@ -42,7 +42,7 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
 | 9 | Food and a New Species | city | 2 | 6 | complete |
 | 10 | Writing and Mythology | city | 2 | 6 | complete |
 | 11 | Do You See? | city | 2 | 6 | complete |
-| 12 | Mythical Blood | city | 2 | 6 | 0/2 sheets |
+| 12 | Mythical Blood | city | 2 | 6 | complete |
 
 ## Page-by-page breakdown
 
@@ -321,27 +321,27 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
 
 **Sheet 1**
 
-- **P1** — Vast dim temple great hall seen from the doorway: the small boy-sized young trilobite man Yesael in dark chitin plate armor and a small dark three-lobed trilobite bone helmet stepping onto the threshold trembling, dwarfed by towering stone columns; on the high stone altar at the far end @god@ blazing with white radiance; @shelly@ seated beside the altar, her green eyes lifted to the sky beyond the columns, ignoring him
+- **P1** — Vast temple hall from the doorway: small boy-sized Yesael in dark chitin plate armor and a small dark three-lobed trilobite bone helmet stepping onto the threshold trembling, dwarfed by huge columns; on the high altar at the far end @god@ blazing as a faceless figure of pure light; @shelly@ in her flowing white gauzy cloak seated beside the altar, large vacant green eyes lifted to the sky, ignoring him
   - `narration`: "A ethereal and desolate voice emanated from within the temple, devoid of emotion, like time itself."
   - `echo`: "Come in!"
-- **P2** — Inside the temple: the small armored boy Yesael trembling in awe; in the foreground @shelly@ in her flowing white gauzy cloak, brown braid, large vacant green eyes fixed on the sky between the columns, paying him no attention like a mantis shrimp disregarding trilobites; behind her the blinding luminous silhouette of @god@ on the altar
+- **P2** — Inside the temple: small armored Yesael trembles; in the foreground @shelly@ in her flowing white gauzy cloak, brown braid, profile showing large vacant bright-green eyes on the sky, ignoring him like a mantis shrimp over trilobites; behind her the blinding faceless light silhouette of @god@ on the altar
   - `narration`: "He looked at the brown-haired, green-eyed girl in terror, only to find that she paid him no attention. Her green eyes remained fixed on the sky outside the temple, like a mighty mantis shrimp in the ocean disregarding the trilobites beneath its feet."
   - `narration`: "The light was too dazzling to behold directly."
-- **P3** — @redlichia@ in glossy black chitin plate armor and his dark three-lobed trilobite bone helmet with a carved stone crown, kneeling low with head bowed in humility before the high stone altar; above him @god@ stands as a blinding radiant silhouette of white light
+- **P3** — @redlichia@ in glossy black chitin plate armor and dark three-lobed trilobite bone helmet with a carved stone crown, kneeling in the lower third, head bowed before the altar; towering above him @god@ fills the upper half of the frame — a huge blinding faceless figure of pure white standing on the altar dais
   - `narration`: "Redlichia knelt before the altar. Even Yin Shen could sense his pride and joy."
   - `say`: "Redlichia."
   - `say`: "Is this also your son?"
 
 **Sheet 2**
 
-- **P4** — Temple hall: @redlichia@ half-risen on one knee, one armored arm extended toward the small boy Yesael silhouetted in the bright temple doorway, speaking with fervor and pride; @god@ radiant on the altar above; solemn sacred light through the columns
+- **P4** — Temple hall: @redlichia@ half-risen on one knee at the left, armored arm extended toward child Yesael standing at right in the bright doorway — the boy fully encased in dark chitin plate armor, his head fully covered by a dark three-lobed trilobite bone helmet; @god@ a blinding faceless silhouette of white light on the altar above them; sacred light through the columns
   - `say`: "He has inherited my bloodline and mythical power, possessing the glory to see God and receive divine revelation."
   - `say`: "Great Yinsai! Redlichia has finally found my successor!"
-- **P5** — Close-up at the altar: a luminous hand of @god@ reaching down with no face visible, one glowing finger touching the forehead of the small kneeling boy Yesael in dark chitin armor and small three-lobed helmet, ripples of pale light spreading from the touch, faint visions of exploding stars and a hatching egg swirling in the glow
+- **P5** — Close-up at the altar: small kneeling trilobite boy Yesael at the left — the child fully encased in dark chitin plate armor, his head fully covered by a dark three-lobed trilobite bone helmet — as the glowing hand of @god@ enters from the upper right, one luminous finger touching his helmeted forehead, no face visible on the god, ripples of pale light from the touch, faint visions of exploding stars and a hatching egg in the glow
   - `narration`: "He could touch him, indicating that he had gained another anchor point in this world."
   - `say`: "Interesting. So mythical power can be inherited."
   - `say`: "Mythical substance?"
-- **P6** — Close on the raised armored hand of @redlichia@ — its once glossy black chitin surface turned rough and pitted like eroding rock, a sign of great age — before the radiant presence of @god@; the small boy Yesael watching from the bright temple doorway in the distance
+- **P6** — Close on the raised armored hand and forearm of @redlichia@ — no face visible, his head fully encased in the dark three-lobed trilobite bone helmet — the once glossy black chitin surface turned rough and pitted like eroding rock, a sign of great age; @god@ a towering faceless silhouette of white light standing behind at the right; small armored Yesael watching from the bright doorway in the distance
   - `roar`: "God!"
   - `say`: "I will grow old and eventually vanish!"
   - `say`: "Do as you see fit!"
