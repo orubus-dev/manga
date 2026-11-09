@@ -106,7 +106,17 @@
   },
   "2": {
    "ok": true,
-   "status": "built"
+   "status": "cached"
+  }
+ },
+ "ch012": {
+  "1": {
+   "ok": false,
+   "status": "failed"
+  },
+  "2": {
+   "ok": false,
+   "status": "failed"
   }
  }
 }

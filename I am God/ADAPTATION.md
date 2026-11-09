@@ -1,4 +1,4 @@
-# I am God — Adaptation Plan (Chapters 1-11)
+# I am God — Adaptation Plan (Chapters 1-12)
 
 Source: *I am God* (web novel, 458 chapters). This document records the chapter-by-chapter
 adaptation produced so far. Each generated image is a vertical strip of **3 manga pages**;
@@ -42,6 +42,7 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
 | 9 | Food and a New Species | city | 2 | 6 | complete |
 | 10 | Writing and Mythology | city | 2 | 6 | complete |
 | 11 | Do You See? | city | 2 | 6 | complete |
+| 12 | Mythical Blood | city | 2 | 6 | 0/2 sheets |
 
 ## Page-by-page breakdown
 
@@ -315,4 +316,33 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
   - `say`: "Yesael! Do you see?"
   - `narration`: "He saw the spiral shell emanating mythical light, the supreme instrument for creating life. Beneath the altar sat the girl Shelly, surging with terrifying power. Finally — he saw God."
   - `echo`: "God!"
+
+### Chapter 12 — Mythical Blood  (palette: city)
+
+**Sheet 1**
+
+- **P1** — Vast dim temple great hall seen from the doorway: the small boy-sized young trilobite man Yesael in dark chitin plate armor and a small dark three-lobed trilobite bone helmet stepping onto the threshold trembling, dwarfed by towering stone columns; on the high stone altar at the far end @god@ blazing with white radiance; @shelly@ seated beside the altar, her green eyes lifted to the sky beyond the columns, ignoring him
+  - `narration`: "A ethereal and desolate voice emanated from within the temple, devoid of emotion, like time itself."
+  - `echo`: "Come in!"
+- **P2** — Inside the temple: the small armored boy Yesael trembling in awe; in the foreground @shelly@ in her flowing white gauzy cloak, brown braid, large vacant green eyes fixed on the sky between the columns, paying him no attention like a mantis shrimp disregarding trilobites; behind her the blinding luminous silhouette of @god@ on the altar
+  - `narration`: "He looked at the brown-haired, green-eyed girl in terror, only to find that she paid him no attention. Her green eyes remained fixed on the sky outside the temple, like a mighty mantis shrimp in the ocean disregarding the trilobites beneath its feet."
+  - `narration`: "The light was too dazzling to behold directly."
+- **P3** — @redlichia@ in glossy black chitin plate armor and his dark three-lobed trilobite bone helmet with a carved stone crown, kneeling low with head bowed in humility before the high stone altar; above him @god@ stands as a blinding radiant silhouette of white light
+  - `narration`: "Redlichia knelt before the altar. Even Yin Shen could sense his pride and joy."
+  - `say`: "Redlichia."
+  - `say`: "Is this also your son?"
+
+**Sheet 2**
+
+- **P4** — Temple hall: @redlichia@ half-risen on one knee, one armored arm extended toward the small boy Yesael silhouetted in the bright temple doorway, speaking with fervor and pride; @god@ radiant on the altar above; solemn sacred light through the columns
+  - `say`: "He has inherited my bloodline and mythical power, possessing the glory to see God and receive divine revelation."
+  - `say`: "Great Yinsai! Redlichia has finally found my successor!"
+- **P5** — Close-up at the altar: a luminous hand of @god@ reaching down with no face visible, one glowing finger touching the forehead of the small kneeling boy Yesael in dark chitin armor and small three-lobed helmet, ripples of pale light spreading from the touch, faint visions of exploding stars and a hatching egg swirling in the glow
+  - `narration`: "He could touch him, indicating that he had gained another anchor point in this world."
+  - `say`: "Interesting. So mythical power can be inherited."
+  - `say`: "Mythical substance?"
+- **P6** — Close on the raised armored hand of @redlichia@ — its once glossy black chitin surface turned rough and pitted like eroding rock, a sign of great age — before the radiant presence of @god@; the small boy Yesael watching from the bright temple doorway in the distance
+  - `roar`: "God!"
+  - `say`: "I will grow old and eventually vanish!"
+  - `say`: "Do as you see fit!"
 
