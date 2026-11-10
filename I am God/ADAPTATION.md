@@ -1,4 +1,4 @@
-# I am God — Adaptation Plan (Chapters 1-12)
+# I am God — Adaptation Plan (Chapters 1-13)
 
 Source: *I am God* (web novel, 458 chapters). This document records the chapter-by-chapter
 adaptation produced so far. Each generated image is a vertical strip of **3 manga pages**;
@@ -43,6 +43,7 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
 | 10 | Writing and Mythology | city | 2 | 6 | complete |
 | 11 | Do You See? | city | 2 | 6 | complete |
 | 12 | Mythical Blood | city | 2 | 6 | complete |
+| 13 | The Fusion Monster Race | city | 2 | 6 | complete |
 
 ## Page-by-page breakdown
 
@@ -345,4 +346,36 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
   - `roar`: "God!"
   - `say`: "I will grow old and eventually vanish!"
   - `say`: "Do as you see fit!"
+
+### Chapter 13 — The Fusion Monster Race  (palette: city)
+
+**Sheet 1**
+
+- **P1** — On the great temple altar @god@ sits motionless like a pale statue of pure light, completely faceless, golden sunbeams shifting across the huge stone columns to suggest passing days; @shelly@ seated beside the altar in her flowing white gauzy cloak, unchanged, gazing at the sky
+  - `narration`: "Outside the temple, the sun rose and set several times. Time and years no longer held any power over him, like a gentle breeze slipping through his fingers."
+  - `say`: "So I haven't been human for a long time."
+  - `say`: "What exactly am I?"
+- **P2** — Inside the temple: @god@ — a tall luminous white silhouette, completely faceless, no cloth — bends from the left, his glowing hand lifting the chin of @shelly@ seated at right, her brown braid over her shoulder, large vacant green eyes wide; soft warm light through the columns
+  - `narration`: "He looked at the Fusion Monster Shelly sitting beside him. Even after so long, Shelly remained exactly the same as before."
+  - `say`: "Why don't you age?"
+  - `say`: "Is it because your power is life?"
+- **P3** — Dim temple interior: the colossal translucent spiral shell filled with glowing warm seawater like a giant womb, several hard brown stone-like sphere embryos floating inside it; @shelly@ at the left bending to stare into the shell; @god@ — a tall slender figure made entirely of glowing white light, completely faceless, no cloth — in the background at the right with one radiant hand raised over the shell
+  - `narration`: "She was their ancestor. The Fusion Monster Queen."
+  - `roar`: "Gurgle gurgle!"
+  - `say`: "Only half successful."
+
+**Sheet 2**
+
+- **P4** — Above the white stone pyramid temple: @god@ raising one luminous hand as several hard brown stone-like spheres streak out of the temple into the bright sky, light trails behind them, the sea stretching to the horizon
+  - `narration`: "Yin Shen raised his hand, and these embryos left the spiral shell, flying out of the temple."
+  - `roar`: "Swoosh~"
+  - `narration`: "Hatching, birth, growth. Everything happened in an instant."
+- **P5** — Sunlit shore: @daughter@ at the left in the teal shallows wearing white-lacquered chitin plate armor, her head a smooth white three-lobed trilobite shell, no face showing; small boy Yesael at the right on a huge rock wearing glossy black chitin plate armor, his head a smooth dark three-lobed trilobite shell, holding a big @afish@ aloft
+  - `say`: "Yesael! Jump in quickly!"
+  - `say`: "Sister! I'm coming!"
+  - `say`: "It's so big!"
+- **P6** — A colossal pale sea worm with a segmented body and round mouth erupting from the exploding sea; @tmen@ with three-lobed helmets fleeing the beach at the left; in the foreground small Yesael in glossy black chitin plate armor and @daughter@ in white-lacquered chitin plate armor, their heads smooth three-lobed trilobite shells with no faces visible, Yesael staring unblinkingly at the monster
+  - `roar`: "Boom!"
+  - `say`: "What was that?"
+  - `narration`: "A thought crossed his mind: if he possessed such tremendous power, he could surely conquer the sea."
 
