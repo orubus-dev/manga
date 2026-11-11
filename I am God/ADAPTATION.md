@@ -1,4 +1,4 @@
-# I am God — Adaptation Plan (Chapters 1-13)
+# I am God — Adaptation Plan (Chapters 1-14)
 
 Source: *I am God* (web novel, 458 chapters). This document records the chapter-by-chapter
 adaptation produced so far. Each generated image is a vertical strip of **3 manga pages**;
@@ -44,6 +44,7 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
 | 11 | Do You See? | city | 2 | 6 | complete |
 | 12 | Mythical Blood | city | 2 | 6 | complete |
 | 13 | The Fusion Monster Race | city | 2 | 6 | complete |
+| 14 | The Priest of God | city | 2 | 6 | complete |
 
 ## Page-by-page breakdown
 
@@ -378,4 +379,36 @@ English translation. Generated art is **zero-text**; all lettering is overlaid p
   - `roar`: "Boom!"
   - `say`: "What was that?"
   - `narration`: "A thought crossed his mind: if he possessed such tremendous power, he could surely conquer the sea."
+
+### Chapter 14 — The Priest of God  (palette: city)
+
+**Sheet 1**
+
+- **P1** — Shore outside the white stone city: a frightened crowd of @tmen@, every head encased in a three-lobed trilobite bone helmet with no hair visible, gathered at the waterline, some collapsed crawling back on the sand; in the sea several @fmon@ rising, gaping mouths roaring toward the sky
+  - `narration`: "Everyone trembled as they watched the giant beasts in the ocean. The gaping maws of those monsters seemed poised to devour the sun in the sky."
+  - `say`: "What are these?"
+  - `say`: "How can there be such enormous monsters?"
+- **P2** — @redlichia@ standing tall on a beach rock, bone crown gleaming over his dark three-lobed helmet with no hair visible, one hand raised high over the helmeted kneeling crowd; a @fmon@ tiny in the distant sea haze
+  - `say`: "Do not fear!"
+  - `say`: "These monsters are God's servants."
+  - `narration`: "A strange power instantly quieted the restless and panicked crowd."
+- **P3** — @redlichia@ climbing the last pyramid steps at golden dawn, above him @god@ — a faceless silhouette of glowing white light — standing before the temple gazing at the sea where the monsters swim
+  - `narration`: "Redlichia hurriedly ran to the top of the pyramid temple and saw the divine being admiring his handiwork."
+  - `say`: "How is it?"
+  - `say`: "Do you like it?"
+
+**Sheet 2**
+
+- **P4** — Temple top at dawn: @god@, a faceless silhouette of pure glowing white light with no cloth, no hair, no face, stands beside the altar sweeping one radiant hand over the sea far below; @redlichia@ kneels with tears streaming beneath his dark three-lobed helmet; empty sky, no sea creatures, no writing
+  - `say`: "This is the gift I bestow upon you!"
+  - `say`: "With them, neither the deep sea nor land can obstruct your path."
+  - `say`: "May I give this opportunity to my son?"
+- **P5** — Moonlit night on the high city walls: young Yesael, a small boy in glossy black chitin plate armor, head fully encased in a smooth dark three-lobed trilobite bone helmet with no hair visible, walking alone gazing at the sea horizon, fists clenched, the sleeping white city below
+  - `narration`: "Yesael was too excited to sleep that night. He walked out of the palace and strolled along the high walls in exhilaration."
+  - `say`: "The sea and the land."
+  - `say`: "I will conquer you."
+- **P6** — Temple dawn interior: @god@, a tall slender figure made entirely of glowing white light, completely faceless, no cloth, no hair, bends down and touches with one luminous fingertip the forehead of young boy Yesael who wears glossy black chitin plate armor and a dark three-lobed trilobite helmet; warm light spills from the touch; @redlichia@ watches proudly from the side; plain stone columns, no writing, no symbols, no letters
+  - `say`: "From this day forward."
+  - `say`: "It is yours."
+  - `narration`: "Yesael, the great son of Redlichia, became the first priest of the God-Given City."
 
